@@ -1,0 +1,55 @@
+USER PROFILE INFORMATION
+
+Personal Information:
+-First Name *
+-Middle Name
+-Last Name *
+-Permanent Address, line 1 *
+-Permanent Address, line 2
+-Permanent City *
+-Permanent State *
+-Country
+-Permanent Phone *
+-Cell Phone
+-Cell Carrier
+-Cell Carrier domain name
+-Allow text messages from Career Services office (yes/no)
+-Allow text messages for event reminders (yes/no) 
+-Allow text messages from job agents (yes/no) 
+-Primary email *
+-Other email
+-Subscribe to emails (yes/no) *
+
+Demographic Information: 
+-Class standing 
+-Seeking Coop/internship for credit (yes/no) 
+-Graduation month *
+-Graduation year * 
+-Overall GPA *
+-Major GPA *
+-Credit hour completed *
+-Degree (dropdown menu of degree completion options) *
+-Major
+-Campus *
+-Achievements (text box)
+-Citizenship (dropdown menu of options) *
+-Visa status *
+-Ethnicity *
+-Gender *
+-Disabled Status (dropdown menu)
+-Veteren Status (dropdown menu)
+
+Job Related Skills / Information:
+-Foreign language skills (dropdown menu of languages)
+-Job location (dropdown menu of regions in florids, other general locations)
+-Technical/computer experience (dropdown menu of skills)
+-Additional skills (dropdown menu of other, nontechnical skills)
+
+Additional Information:
+-Career objectives
+-Job target (dropdown menu of job fields) *
+-Allow employers to view my resume/profile (yes/no) 
+-Gradleaders recruiting database inclusion opt out (yes/no) 
+
+Control Information:
+-Z number *
